@@ -1,5 +1,5 @@
 {
-  "name": "admin-auth",
+  "name": "register-usr",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.1397.0"
+    "aws-sdk": "^2.1145.0",
+    "bcrypt": "^5.1.0",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1"
   }
 }
